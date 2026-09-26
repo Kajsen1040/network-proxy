@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+# Local proxy credentials and environment files
+proxy-auth.txt
+*.auth
+.env
+.env.*
+
+# Local tooling and runtime output
+.vscode/
+.idea/
+*.log
